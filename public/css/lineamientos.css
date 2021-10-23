@@ -526,14 +526,15 @@ font-family: 'Oxygen', sans-serif;
     zoom: 1;
     margin: 5px;
     padding: 3px 10px;
-    font-size: 2em;
+    font-size: 40px !important;
+    line-height: 40px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
     border-radius: 0px;
     background: #333;
     opacity: 1;
     width: 50px;
-  height: 100px;
+  height: 50px;
   padding-top: 30px;}
 
 
