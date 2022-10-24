@@ -59,21 +59,21 @@ font-family: 'Droid Serif', serif;
 
 
  h1 {
-font-family: 'Oxygen', sans-serif;
+font-family: 'Droid Serif', serif;
   font-weight: bold;
   font-size:3em;
 }
 
 
 h2 {
-font-family: 'Oxygen', sans-serif;
+font-family: 'Droid Serif', serif;
   font-weight: bold;
   color: #3d8dc7;
   font-size:1.6em;
 }
 
 h3{
-font-family: 'Oxygen', sans-serif;
+font-family: 'Droid Serif', serif;
   font-weight: bold;
   color: #298ee5;
   font-size:1.3em;
@@ -119,6 +119,7 @@ font-family: 'Droid Sans', sans-serif;
 
 li {
   color: #eee;
+  text-align: justify;
 }
 
 
@@ -250,13 +251,13 @@ padding-left: 30px;
   background-color: #298ee5;
   border: 0px;
   font-size: 1.1em;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-weight: bold;
 }
 
 #bc1 a:hover {
     color: #333;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-weight: bold;
 }
 
@@ -363,7 +364,7 @@ padding-left: 30px;
 .pagination {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Droid Serif', serif;
   font-weight: bold;
   text-align: center;
 }
@@ -490,7 +491,7 @@ padding-top:10%;
 
 #owlcapitulos {
       margin-top: 60px;
-font-family: 'Oxygen', sans-serif;
+font-family: 'Droid Serif', serif;
     }
 
 
